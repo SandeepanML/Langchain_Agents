@@ -1,0 +1,4 @@
+http://localhost:11434/
+pip install langchain
+pip install langchain-ollama
+
